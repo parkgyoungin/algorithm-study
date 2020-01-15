@@ -3,7 +3,7 @@
 # Solved Problem
 
 1. Easy
-   * [numbersGrouping](problem/1.numbersGrouping)
+   * [numbersGrouping](problem/1.numbersGrouping.md)
 2. Medium
    * None
 3. Hard
